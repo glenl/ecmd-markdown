@@ -12,14 +12,23 @@ I was intent on keeping the focus on the markdown renderer for another
 project so I'm pretty sure that I didn't write as much
 [elm](https://elm-lang.org/) as these package authors:
 
- - [Dillonkearns](https://github.com/dillonkearns)
+ - [dillonkearns](https://github.com/dillonkearns)
    for [elm-markdown](https://package.elm-lang.org/packages/dillonkearns/elm-markdown/latest/)
  - [rtfeldman](https://github.com/dillonkearns)
    for [elm-css](https://package.elm-lang.org/packages/rtfeldman/elm-css/latest/)
  - [ryannhg](https://github.com/ryannhg/elm-spa) for
-   elm-spa](https://elm-spa.dev)
+   [elm-spa](https://elm-spa.dev)
 
-## dependencies
+## Overview
+
+The markdown was developed for use in another project that is using
+dillonkearns'
+[elm-graphql](https://github.com/dillonkearns/elm-graphql)
+package. With the graphql server in development it made sense to
+develop the markdown renderer separately. The implementation of this
+test application has been made much simpler with elm-spa.
+
+## Dependencies
 
  - Requires the latest LTS version of [Node.js](https://nodejs.org/)
 
@@ -29,7 +38,7 @@ project so I'm pretty sure that I didn't write as much
 npm install -g elm elm-spa
 ```
 
-## running locally
+## Running locally
 
 ```bash
 elm-spa gen
