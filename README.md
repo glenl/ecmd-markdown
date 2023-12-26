@@ -25,8 +25,7 @@ The markdown was developed for use in another project that is using
 dillonkearns'
 [elm-graphql](https://github.com/dillonkearns/elm-graphql)
 package. With the graphql server in development it made sense to
-develop the markdown renderer separately. The implementation of this
-test application has been made much simpler with elm-spa.
+develop the markdown renderer separately until the API stabilized.
 
 ## Dependencies
 
