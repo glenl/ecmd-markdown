@@ -14,9 +14,9 @@ project so I'm pretty sure that I didn't write as much
 
  - [dillonkearns](https://github.com/dillonkearns)
    for [elm-markdown](https://package.elm-lang.org/packages/dillonkearns/elm-markdown/latest/)
- - [rtfeldman](https://github.com/dillonkearns)
+ - [rtfeldman](https://github.com/rtfeldman)
    for [elm-css](https://package.elm-lang.org/packages/rtfeldman/elm-css/latest/)
- - [ryannhg](https://github.com/ryannhg/elm-spa) for
+ - [ryannhg](https://github.com/ryannhg) for
    [elm-spa](https://elm-spa.dev)
 
 ## Overview
